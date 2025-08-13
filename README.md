@@ -16,7 +16,7 @@ Permite agregar nombres de los participantes, mostrarlos en una lista y realizar
 
 ---
 
-### 6️⃣ Funcionalidades
+## Funcionalidades
 Lista las funciones principales:
 
 ```markdown
